@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/drawable-anydpi/all_assessments.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/drawable-anydpi/all_courses.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/drawable-anydpi/all_terms.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/drawable-anydpi/grad.xml" value="0.2640625" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/drawable-anydpi/menu_home.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/drawable-anydpi/menu_lines.xml" value="0.3828125" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/drawable/app_bar_line.xml" value="0.3828125" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/drawable/app_launcher_background.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/drawable/app_launcher_foreground.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout-land/activity_add_assessment.xml" value="0.40860215053763443" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout-land/activity_add_course.xml" value="0.553125" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout-land/activity_add_term.xml" value="0.553125" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout-land/activity_main.xml" value="0.553125" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout-land/activity_view_assessments.xml" value="0.2" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout-land/activity_view_course_instructor.xml" value="0.25" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout-land/activity_view_courses.xml" value="0.18" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout-land/view_terms.xml" value="0.553125" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/ViewTerms.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/activity_add_assessment.xml" value="0.3401273885350318" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/activity_add_course.xml" value="0.33" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/activity_add_term.xml" value="0.2774566473988439" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/activity_main_screen.xml" value="0.33" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/activity_view_assessments.xml" value="0.24375" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/activity_view_course_instructor.xml" value="0.33" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/activity_view_courses.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/assessment_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/course_list.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/main_toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/terms_list.xml" value="0.41041666666666665" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/layout/view_terms.xml" value="0.4875" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/menu/drawer_view.xml" value="0.5" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/menu/main.xml" value="0.20588235294117646" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Carlo/AndroidStudioProjects/MobileDevelopment/app/src/main/res/mipmap-anydpi-v26/app_launcher.xml" value="0.22291666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
