@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Refresh"
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:icon="@drawable/refresh"/>
+    <item
+        android:title="Share"
+        android:id="@+id/shareButton"
+        android:orderInCategory="99"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/share"/>
+    <item
+        android:title="Home"
+        android:id="@+id/homeButton"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/menu_home"/>
+    <item
+        android:title="Set Alarm"
+        android:id="@+id/setAlarm"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/set_alarm"/>
+</menu>

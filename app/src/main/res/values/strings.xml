@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mobile Development</string>
+    <string name="term_title">Term Title</string>
+    <string name="term_id">Term ID</string>
+    <string name="addTermButton">TODO</string>
+    <string name="topBarModifyCourse">Modify Course</string>
+    <string name="topBarViewCourses">View Courses</string>
+    <string name="topBarMainScreen">Welcome</string>
+    <string name="topBarViewTerms">View Terms</string>
+    <string name="topBarModifyTerm">Modify Term</string>
+    <string name="topBarCourseInstructore">Course Instructor</string>
+    <string name="topBarMainScreen1">Term Scheduler</string>
+    <string name="course_notes"><u>Course Notes</u></string>
+    <string name="underline_description"><u>Course Description</u></string>
+    <string name="instructor_underline"><u>Course Instructor</u></string>
+    <string name="underlineInfo"><u>Description</u></string>
+</resources>
